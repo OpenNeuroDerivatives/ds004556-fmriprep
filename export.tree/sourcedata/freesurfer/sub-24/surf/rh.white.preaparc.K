@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/gq/2K/MD5E-s536195--173ff7dc21fa4a397826c15fef746c9c.K/MD5E-s536195--173ff7dc21fa4a397826c15fef746c9c.K
